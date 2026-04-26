@@ -1,0 +1,16 @@
+id: QmU2Nv9AcxZGahETuW5DvN681rooRNgehCQzj2mePLemsL
+description: a simple guess battle based on car parts sketch
+tags:
+    - sketch
+    - battle
+    - car
+    - parts
+local: false
+channel:
+    regex: false
+    match: api/ws
+bridges:
+    mqtt:
+        enable: false
+    websocket:
+        enable: true
