@@ -1,8 +1,7 @@
 id: QmU2Nv9AcxZGahETuW5DvN681rooRNgehCQzj2mePLemsL
-description: A simple guess battle based on car parts sketch
+description: Piassa Sketch Battle Messaging
 tags:
     - sketch
-    - battle
 local: false
 channel:
     regex: true
