@@ -1,11 +1,10 @@
 id: QmU2Nv9AcxZGahETuW5DvN681rooRNgehCQzj2mePLemsL
 description: Piassa Sketch Battle Messaging
-tags:
-    - sketch
+tags: []
 local: false
 channel:
     regex: true
-    match: ^sketch-battle-.*$
+    match: .*
 bridges:
     mqtt:
         enable: false
