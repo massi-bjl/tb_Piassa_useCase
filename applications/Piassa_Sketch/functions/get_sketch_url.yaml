@@ -1,9 +1,6 @@
-id: QmUJ4wdkNPTEjJm2yWAyLRmpAKmivWpYwNs1bDE4mq7q4S
-description: Generates a unique WebSocket relay URL for Piassa Sketch rooms
-tags:
-    - game
-    - websocket
-    - piassa
+id: get_sketch_url
+description: Piassa WebSocket Link
+tags: []
 source: .
 trigger:
     type: https

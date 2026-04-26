@@ -3,8 +3,6 @@ description: A simple guess battle based on car parts sketch
 tags:
     - sketch
     - battle
-    - car
-    - parts
 local: false
 channel:
     regex: true
