@@ -5,7 +5,7 @@ tags:
     - battle
     - car
     - parts
-local: false
+local: true
 channel:
     regex: true
     match: ^sketch-battle-.*$
